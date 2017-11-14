@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Student>
+
+<!-- version:版本   encoding:字符编码-->
+<!-- <!DOCTYPE Students SYSTEM "Student.dtd"> -->
+<Studnets> 
+  <Student id="stu01"> 
+    <name>张三</name>  
+    <age>49</age> 
+  </Student>  
+  <Student id="stu02"> 
+    <name>张四</name>  
+    <age>14</age> 
+  </Student>  
+  <Student id="stu03"> 
+    <name>王五</name>  
+    <age>17</age> 
+  </Student> 
+</Studnets>
